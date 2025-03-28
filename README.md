@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm @Malibu-Chuchu
 
 ## 🚀 About Me
-I'm a passionate student diving deep into the worlds of Finance, Quantitative Analysis, and Data Science\ 
+I'm a passionate student diving deep into the worlds of Finance, Quantitative Analysis, and Data Science
 Currently pursuing my journey in Financial Engineering and Data Science, I'm bridging the gap between financial insights and cutting-edge data analytics.
 
 ## 🔍 Areas of Interest
